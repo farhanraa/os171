@@ -1,0 +1,1 @@
+This week task is about push and pull repository from github.com to local repository

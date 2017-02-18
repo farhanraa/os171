@@ -21,3 +21,5 @@ drwxr-xr-x  2 farhan.ramadhan StafCS 4096 Feb 17 11:07 week10
 drwxr-xr-x  2 farhan.ramadhan StafCS 4096 Feb 17 11:01 week11
 drwxr-xr-x  2 farhan.ramadhan StafCS 4096 Feb 17 11:08 xtra
 /home/fasilkom/mahasiswa/f/farhan.ramadhan/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 18 Feb 2017 at 13:12:54
